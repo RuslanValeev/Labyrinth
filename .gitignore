@@ -1,0 +1,7 @@
+# contents files and sfml library
+./SFML
+*.png
+*.ttf
+*.ogg
+ResourcePath.mm
+base.hpp
